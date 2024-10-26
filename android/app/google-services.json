@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "789472975334",
+    "project_id": "pure-health-clinic",
+    "storage_bucket": "pure-health-clinic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789472975334:android:079b530b0cd46f3c9b9e27",
+        "android_client_info": {
+          "package_name": "com.example.pure_health_clinic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd6RuwbPhtHm9O8Ec0z4satls8VbRwKes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
